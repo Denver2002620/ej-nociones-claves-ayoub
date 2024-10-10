@@ -1,0 +1,3 @@
+C:/Users/Usuario/Documents/GitHub/ej-nociones-claves-ayoub/cmake-build-debug/CMakeFiles/ej_nociones_claves_ayoub.dir
+C:/Users/Usuario/Documents/GitHub/ej-nociones-claves-ayoub/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/Documents/GitHub/ej-nociones-claves-ayoub/cmake-build-debug/CMakeFiles/rebuild_cache.dir
